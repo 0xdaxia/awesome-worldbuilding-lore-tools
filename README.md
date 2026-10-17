@@ -58,7 +58,7 @@ Keeping kingdoms, bloodlines, magic rules, and cast arcs straight across multipl
 Map makers for endpapers, reader reference, GM navigation, and your own exploration.
 
 - [Inkarnate](https://inkarnate.com/) - Browser-based fantasy map maker for world, region, and city maps.
-- [Wonderdraft](https://www.wonderdraft.net/) - Desktop map creation tool for detailed fantasy world maps.
+- [Wonderdraft](https://wonderdraft.net/) - Desktop map creation tool for detailed fantasy world maps.
 - [Azgaar's Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/) - Free open source generator for procedural worlds with states, cultures, and rivers.
 - [Dungeon Scrawl](https://dungeonscrawl.com/) - Free tool for quick floor plans of castles, dungeons, and buildings.
 - [Dungeon Fog](https://www.dungeonfog.com/) - Map creator for battle maps, regions, and world overviews.
@@ -70,7 +70,7 @@ Help with names, words, and constructed languages that make a world feel lived-i
 - [Fantasy Name Generators](https://www.fantasynamegenerators.com/) - Huge free collection of name generators for races, places, and objects.
 - [Vulgarlang](https://www.vulgarlang.com/) - Conlang generator for consistent fictional languages, words, and grammar.
 - [Donjon](https://donjon.bin.sh/) - Classic generators for names, calendars, weather, and dungeon content.
-- [Chaotic Shiny](http://chaoticshiny.com/) - Generators for cultures, religions, plots, and setting details.
+- [Chaotic Shiny](https://chaoticshiny.com/) - Generators for cultures, religions, plots, and setting details.
 
 ## Timelines and Chronology
 
