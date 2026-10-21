@@ -122,6 +122,7 @@ General-purpose models worldbuilders use for lore Q&A, culture sketches, and con
 - [Awesome KDP AI Tools](https://github.com/grades2018/awesome-kdp-ai-tools) - AI tools for Amazon KDP and self-publishing authors.
 - [Awesome AI Book Series Tools](https://github.com/grades2018/awesome-ai-book-series-tools) - Series bibles, continuity, and multi-book fiction.
 - [Awesome AI Novel Editors](https://github.com/grades2018/awesome-ai-novel-editors) - Manuscript rewrite, line editing, and critique for novels.
+- [Awesome AI Ghostwriting Tools](https://github.com/grades2018/awesome-ai-ghostwriting-tools) - AI and writing tools for ghostwriters turning client interviews into books.
 
 ## Contributing
 
