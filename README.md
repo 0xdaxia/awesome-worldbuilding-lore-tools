@@ -71,6 +71,7 @@ Help with names, words, and constructed languages that make a world feel lived-i
 - [Fantasy Name Generators](https://www.fantasynamegenerators.com/) - Huge free collection of name generators for races, places, and objects.
 - [Vulgarlang](https://www.vulgarlang.com/) - Conlang generator for consistent fictional languages, words, and grammar.
 - [Donjon](https://donjon.bin.sh/) - Classic generators for names, calendars, weather, and dungeon content.
+- [Mingzi](https://mingzi.io/chinese-name-generator) - Authentic Chinese character name generator, surname directory, and AI naming agent built on 3,755 real characters and surnames.
 - [Chaotic Shiny](https://chaoticshiny.com/) - Generators for cultures, religions, plots, and setting details.
 
 ## Timelines and Chronology
